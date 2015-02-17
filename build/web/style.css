@@ -1,0 +1,75 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 13, 2015, 9:41:56 PM
+    Author     : braniel
+*/
+body {
+    font-family: Arial;
+    font-size: smaller;
+    margin: 0px;
+    padding:0px;
+    height: 100%;
+    width: 100%;
+    background: url("puppies.jpg") no-repeat center fixed;
+    background-size: cover;
+    background-color: #101010;
+    
+}
+
+div {
+    text-align: center;
+    color: #79204b;
+    background-color:rosybrown; 
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border-radius: 100px;
+}
+
+h1 {
+    font-size: 30px;
+    color:antiquewhite;
+    margin:0;
+}
+table {
+    width: 45%;
+    padding: 10px;
+    background-color: brown;
+    margin-top: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th {
+    text-align: center;
+    border-bottom: 1px solid;
+}
+
+td {
+    padding: 10px;
+}
+
+a:link {
+   color: #be7429;
+   font-weight: normal;
+   text-decoration: none;
+}
+
+a:link:hover {
+   color: #be7429;
+   font-weight: normal;
+   text-decoration: underline;
+}
+
+#slogan {
+    text-align: center;
+    font-size: 20px;
+    color: whitesmoke;
+    font-weight:lighter;
+    }
+
